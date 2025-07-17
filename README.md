@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Seungeun Lee
 
-<!--
-**Willoween/Willoween** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year AI Student @ Yonsei University  
+💡 Interested in NLP, Reinforcement Learning, and AI for Mental Health  
+📌 Currently building: a personality-aware LLM counselor  
+📫 Contact: seungeuni04@yonsei.ac.kr
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python, PyTorch, Hugging Face, Transformers
+- Reinforcement Learning (DQN, PPO, SAC, CQL)
+- LLM Fine-tuning (LoRA, vLLM, Prompt Engineering)
+
+---
+
+## 🔥 Featured Projects
+
+### 🗣 Dialect-to-Standard Korean Translator
+> Converts Korean dialects (Jeolla, Gyeongsang, etc.) into standard Korean using KoBERT  
+→ `gogamza/kobert-base-v2` + AIHub dataset + BERTScore eval
+
+### 💬 Personality-aware CBT Chatbot
+> Counseling agent that adapts to user’s Big Five traits  
+→ LLaMA + LoRA + LangChain + Hugging Face
